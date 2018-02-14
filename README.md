@@ -2,6 +2,8 @@
 
 Base para maquetar un nuevo proyecto web con PUG, SCSS, JS (ES6) usando webpack.
 
+***Nota***: Todavía en desarrollo... 
+
 ## Instalación
 
 1. Clonar el repositorio via ```git clone https://github.com/javipuche/webpack-pug-scss-boilerplate.git``` o descargar.
